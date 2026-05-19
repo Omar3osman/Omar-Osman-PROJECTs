@@ -1,0 +1,12 @@
+Team Members
+=============
+
+1. Omar Mohamed Ali Osman  — 55-6177  — T-01
+2. Ahmed Mohamed Sabry     — 55-0353  — T-01
+3. Seif Tamer              — 58-19186 — T-03
+4. Amr Nour                — 55-11434 — T-02
+
+Course: DMET 1001 – Image Processing
+Assignment: Assignment 3
+Semester: Spring 2026
+University: German University in Cairo
